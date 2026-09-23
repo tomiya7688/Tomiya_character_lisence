@@ -2,26 +2,41 @@
 
 This repository records licensing information for Tomiya7688 character assets.
 
+## Default license
+
+Unless a file or directory explicitly states another license, character assets
+published in this repository use the root **MIT License**.
+
+This includes Wise Misk / 賢者ミスク and other characters added here in the
+future.
+
+Kadoka / Maru assets are intentionally handled separately under the Obake
+License and are not relicensed by this repository.
+
 ## Wise Misk / 賢者ミスク
 
-Wise Misk (賢者ミスク) assets published under this repository are licensed
-under the **MIT License**, matching the license used by the AI Game Player
-project.
+Wise Misk assets published here are MIT-licensed.
 
-You may use, copy, modify, redistribute, and include the assets in other
-projects under the terms of the MIT License.
+You may use, copy, modify, redistribute, and include the artwork in other
+projects under the MIT License. You may also change the displayed player name
+or image when using the AI Game Player.
 
-When redistributing the assets or substantial modified versions, include the
-MIT copyright and permission notice.
+For community models and fine-tunes, using a distinct model name is encouraged
+to avoid confusion between different artifacts. Descriptive wording such as
+"fine-tuned from Wise Misk" or "Wise Misk-derived" is welcome.
 
-## Scope
+Using the Wise Misk image does not require the technical model itself to be
+named Wise Misk.
 
-Unless a file or directory explicitly states another license, assets published
-in this repository use the root `LICENSE`.
+See `NAMING_GUIDE.md` for the recommended naming convention. These naming
+recommendations do not add restrictions to the MIT-licensed assets.
 
-Characters or assets published under a separate license repository are not
-relicensed by this repository merely because they are also created by
-Tomiya7688.
+## Separate-license characters
 
-In particular, Kadoka / Maru assets that are designated under the separate
-Obake License remain governed by that separate license.
+Characters or assets published under a separate license repository remain
+governed by that separate license.
+
+In particular:
+
+- Kadoka: Obake License
+- Maru: Obake License
