@@ -1,42 +1,49 @@
 # Tomiya Character License
 
-This repository records licensing information for Tomiya7688 character assets.
+This repository records licensing information and naming guidance for Tomiya7688 character assets.
 
-## Default license
+## Important: licenses are per character / asset set
 
-Unless a file or directory explicitly states another license, character assets
-published in this repository use the root **MIT License**.
+The repository's root MIT `LICENSE` applies to the repository documentation
+and to assets that explicitly opt into it. It does **not** automatically decide
+the license of every future Tomiya character asset.
 
-This includes Wise Misk / 賢者ミスク and other characters added here in the
-future.
-
-Kadoka / Maru assets are intentionally handled separately under the Obake
-License and are not relicensed by this repository.
+Each character/asset set should declare its own license before the actual asset
+files are published.
 
 ## Wise Misk / 賢者ミスク
 
-Wise Misk assets published here are MIT-licensed.
+Wise Misk is currently used as the development/default player character for the
+AI Game Player project.
 
-You may use, copy, modify, redistribute, and include the artwork in other
-projects under the MIT License. You may also change the displayed player name
-or image when using the AI Game Player.
+**The final asset license for Wise Misk is not fixed yet.**
 
-For community models and fine-tunes, using a distinct model name is encouraged
-to avoid confusion between different artifacts. Descriptive wording such as
-"fine-tuned from Wise Misk" or "Wise Misk-derived" is welcome.
+The actual Wise Misk image assets have not been published in this repository,
+so their license should be decided before they are added here.
 
-Using the Wise Misk image does not require the technical model itself to be
-named Wise Misk.
+Community model naming guidance may still refer to Wise Misk as an origin or
+player profile; that naming guidance is separate from the future artwork
+license.
 
-See `NAMING_GUIDE.md` for the recommended naming convention. These naming
-recommendations do not add restrictions to the MIT-licensed assets.
+## MIT character assets
+
+Assets that explicitly declare MIT may be used, copied, modified,
+redistributed, sublicensed, and sold under the terms of the MIT License.
+
+The "すーぱーあいこん" asset set is maintained separately and is currently
+MIT-licensed:
+
+https://github.com/tomiya7688/super_icon_license
 
 ## Separate-license characters
 
-Characters or assets published under a separate license repository remain
-governed by that separate license.
-
-In particular:
-
 - Kadoka: Obake License
 - Maru: Obake License
+
+These characters are not relicensed by this repository.
+
+## Naming
+
+See `NAMING_GUIDE.md`. Naming recommendations are for avoiding confusion
+between player profiles, official models, and community fine-tunes; they do not
+silently change an asset's declared license.
