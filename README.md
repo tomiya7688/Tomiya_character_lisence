@@ -2,6 +2,8 @@
 
 This repository records licensing information and naming guidance for Tomiya7688 character assets.
 
+Why the licenses are intentionally separated is explained in `LICENSE_INTENT.md`. Actual permissions always come from the license declared for each asset set.
+
 ## Important: licenses are per character / asset set
 
 The repository's root MIT `LICENSE` applies to the repository documentation
