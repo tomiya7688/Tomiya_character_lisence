@@ -1,7 +1,7 @@
 # Character and model naming guide
 
-This is a naming recommendation for community clarity. It does not add
-restrictions to assets licensed under the repository MIT License.
+This is a naming recommendation for community clarity. It does not determine
+or override the license of any character artwork.
 
 ## Player identity and model identity are different
 
@@ -47,9 +47,12 @@ are welcome.
 
 ## Artwork
 
-MIT-licensed character artwork from this repository may be used with community
-models. A community model does not need to keep the character's original name
-just because it uses that artwork.
+Artwork usage follows the license declared for that specific character/asset
+set. A community model does not need to keep the character's original name
+just because it uses artwork whose license permits that use.
+
+Wise Misk's final artwork license is currently undecided; do not infer MIT from
+this naming guide.
 
 ## Official/community metadata
 
